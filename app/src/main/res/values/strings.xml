@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple Identicon</string>
+
+    <string name="save">Save</string>
+    <string name="generate">Generate</string>
+    <string name="hint_text">Any text, for example Last Name</string>
+</resources>

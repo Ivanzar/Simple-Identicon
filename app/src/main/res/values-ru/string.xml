@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Simple Identicon</string>
+
+    <string name="save">Сохранить</string>
+    <string name="generate">Сгенерировать</string>
+
+    <string name="hint_text">Любой текст, например Фамилия Имя</string>
+
+</resources>
